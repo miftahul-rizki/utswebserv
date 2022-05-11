@@ -1,6 +1,0 @@
-wheel
-tensorflow-cpu
-Flask
-python-dotenv
-Pillow
-gunicorn
